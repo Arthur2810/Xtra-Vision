@@ -17,6 +17,8 @@ public class XtraVisionProject {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hello world test!");
+        System.out.println("Hello world test!");
+
     }
     
 }
