@@ -10,6 +10,7 @@ public class XtraVisionProject {
         System.out.println("Hello world test! this is David 12");
         System.out.println("Hello world test!");
         System.out.println("Arthur");
+        System.out.println("Hello world test!");
 
     }
     
